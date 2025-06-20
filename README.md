@@ -1,6 +1,4 @@
-// --- README.md ---
-// Create a README.md file:
-/*
+
 # GitSol - GitHub Repo Push for VS Code
 
 **GitSol** lets you instantly create and push a local project folder to GitHub using a personal access token.
